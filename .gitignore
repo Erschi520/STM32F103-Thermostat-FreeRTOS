@@ -1,0 +1,28 @@
+# STM32CubeIDE default
+*.ioc_backup*
+.cproject
+.project
+.settings/
+Debug/
+Release/
+
+# ===== Keil MDK 编译产物 =====
+*.uvgui*
+*.bak
+*.dep
+*.elf
+*.hex
+*.axf
+*.map
+*.o
+*.d
+*.crf
+*.lst
+*.sct
+*.lnp
+*.tra
+
+# CubeMX备份
+.MX_ProjectBackup
+build/
+Generated/
