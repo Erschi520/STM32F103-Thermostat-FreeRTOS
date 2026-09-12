@@ -43,3 +43,7 @@
 4. 按键调整目标温度；系统自动PID调节：低温开启加热片，高温启动风扇散热
 
 ## 文件说明
+├── Hardware/         原理图、PCB、
+├── Software/FreeRTOS‑Keil    CubeMX + Keil 完整工程
+├── Documents/        设计文档、测试数据
+└── Images/           实物、框图、调试截图
